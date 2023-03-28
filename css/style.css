@@ -1657,4 +1657,9 @@ tr:nth-child(even) {
   background-color: #dddddd;
 }
 
+img {
+  width: 100%;
+  height: auto;
+}
+
 /*# sourceMappingURL=style.css.map */
