@@ -171,7 +171,7 @@ h1, h2, h3, h4, h5, h6, figure {
   background: $brand-primary;
 }
 
-.fh5co-nav {
+.ismat-nav {
 	width: 100%;
 	padding: 0;
 	z-index: 1001;
@@ -182,7 +182,7 @@ h1, h2, h3, h4, h5, h6, figure {
 		border-bottom: 1px solid rgba($brand-black,.08);
 		padding: 0px 0;
 		margin-bottom: 0;
-		.num, .fh5co-social, .site{
+		.num, .ismat-social, .site{
 			display: inline-block;
 			margin: 0;
 			padding: 5px 12px;
@@ -206,7 +206,7 @@ h1, h2, h3, h4, h5, h6, figure {
 			letter-spacing: 0px;
 			border-left: 1px solid rgba($brand-black,.08);
 		}
-		.fh5co-social{
+		.ismat-social{
 			margin: 0;
 			border-left: 1px solid rgba($brand-black,.08);
 			border-right: 1px solid rgba($brand-black,.08);
@@ -222,7 +222,7 @@ h1, h2, h3, h4, h5, h6, figure {
 			}
 		}
 	}
-	#fh5co-logo {
+	#ismat-logo {
 		font-size: 24px;
 		margin: 0;
 		padding: 0;
@@ -360,7 +360,7 @@ h1, h2, h3, h4, h5, h6, figure {
 
 
 //SLIDER
-#fh5co-hero {
+#ismat-hero {
 	min-height: 630px;
 	height: 630px;
 	background: $brand-white url(../images/loader.gif) no-repeat center center;
@@ -484,7 +484,7 @@ h1, h2, h3, h4, h5, h6, figure {
 				// 		}
 				// 	}
 				// }
-				.fh5co-lead {
+				.ismat-lead {
 					font-size: 20px;
 					color: $brand-white;
 					.icon-heart {
@@ -497,21 +497,21 @@ h1, h2, h3, h4, h5, h6, figure {
 
 }
 
-.fh5co-bg-section{
+.ismat-bg-section{
 	background: rgba($brand-body-color,1);
 }
 
-#fh5co-course-categories,
-#fh5co-counter,
-#fh5co-course,
-#fh5co-register,
-#fh5co-pricing,
-#fh5co-testimonial,
-#fh5co-blog,
-#fh5co-about,
-#fh5co-staff,
-#fh5co-contact,
-#fh5co-footer{
+#ismat-course-categories,
+#ismat-counter,
+#ismat-course,
+#ismat-register,
+#ismat-pricing,
+#ismat-testimonial,
+#ismat-blog,
+#ismat-about,
+#ismat-staff,
+#ismat-contact,
+#ismat-footer{
 	padding: 7em 0;
 	clear: both;
 	@media screen and (max-width: $screen-sm) {
@@ -568,7 +568,7 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 
 // Counters
-.fh5co-counters {
+.ismat-counters {
 	padding: 7em 0;
 	background-size: cover;
 	background-attachment: fixed;
@@ -586,7 +586,7 @@ h1, h2, h3, h4, h5, h6, figure {
 	.counter-wrap{
 		border: 1px solid red !important;
 	}
-	.fh5co-counter {
+	.ismat-counter {
 		font-size: 44px;
 		display: block;
 		color: rgba($brand-white,1);
@@ -595,7 +595,7 @@ h1, h2, h3, h4, h5, h6, figure {
 		font-weight: 400;
 		margin-bottom: .1em;
 	}
-	.fh5co-counter-label {
+	.ismat-counter-label {
 		color: rgba($brand-white,.8);
 		font-size: 16px;
 		margin-bottom: 2em;
@@ -671,7 +671,7 @@ h1, h2, h3, h4, h5, h6, figure {
 	}
 }
 
-.fh5co-social-icons {
+.ismat-social-icons {
 	margin: 0;
 	padding: 0;
 	li {
@@ -691,7 +691,7 @@ h1, h2, h3, h4, h5, h6, figure {
 	}
 }
 
-.fh5co-contact-info {
+.ismat-contact-info {
 	ul {
 		padding: 0;
 		margin: 0;
@@ -739,7 +739,7 @@ h1, h2, h3, h4, h5, h6, figure {
 	}
 }
 
-.fh5co-heading {
+.ismat-heading {
 	margin-bottom: 5em;
 	h2 {
 		font-size: 24px;
@@ -766,7 +766,7 @@ h1, h2, h3, h4, h5, h6, figure {
 	}
 }
 
-#fh5co-testimonial {
+#ismat-testimonial {
 	background: #1F5F8B;
 	position: relative;
 	.overlay{
@@ -844,7 +844,7 @@ h1, h2, h3, h4, h5, h6, figure {
 		background: rgba($brand-white,1) !important;
 	}
 
-	.fh5co-heading {
+	.ismat-heading {
 		margin-bottom: 3em;
 		h2 {
 			color: $brand-white;
@@ -902,7 +902,7 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 
 // BLOG
-.fh5co-event{
+.ismat-event{
 	position: relative;
 	padding-left: 120px;
 	width: 100%;
@@ -937,7 +937,7 @@ h1, h2, h3, h4, h5, h6, figure {
 	}
 
 }
-.fh5co-blog{
+.ismat-blog{
 	margin-bottom: 30px;
 	width: 100%;
 	float: left;
@@ -998,7 +998,7 @@ h1, h2, h3, h4, h5, h6, figure {
 	}
 }
 
-#fh5co-register{
+#ismat-register{
 	background-size: cover;
 	background-position: center center;
 	background-repeat: no-repeat;
@@ -1100,7 +1100,7 @@ h1, h2, h3, h4, h5, h6, figure {
 			background: rgba($brand-white,.9);
 			@include transition(.3s);
 		}
-		.fh5co-social{
+		.ismat-social{
 			opacity: 0;
 			display: table-cell;
 			vertical-align: middle;
@@ -1135,7 +1135,7 @@ h1, h2, h3, h4, h5, h6, figure {
 			&:before{
 				opacity: 1;
 			}
-			.fh5co-social{
+			.ismat-social{
 				opacity: 1;
 				-webkit-transform: translate3d(0, 0, 0);
 				transform: translate3d(0, 0, 0);
@@ -1144,7 +1144,7 @@ h1, h2, h3, h4, h5, h6, figure {
 	}
 }
 
-#fh5co-gallery{
+#ismat-gallery{
 	padding-top: 2.5em;
 	h2{
 		font-size: 14px;
@@ -1191,7 +1191,7 @@ h1, h2, h3, h4, h5, h6, figure {
 	}
 }
 
-#fh5co-footer {
+#ismat-footer {
 	background: #efefef;
 	background-size: cover;
 	background-position: center center;
@@ -1207,7 +1207,7 @@ h1, h2, h3, h4, h5, h6, figure {
 		background: rgba(0, 0, 0, .85);
 		@include transition(.5s);
 	}
-	.fh5co-footer-links {
+	.ismat-footer-links {
 		padding: 0;
 		margin: 0;	
 		li {
@@ -1223,7 +1223,7 @@ h1, h2, h3, h4, h5, h6, figure {
 			}
 		}
 	}
-	.fh5co-widget {
+	.ismat-widget {
 		margin-bottom: 30px;
 		@media screen and (max-width: $screen-sm){
 			text-align: left;
@@ -1261,7 +1261,7 @@ h1, h2, h3, h4, h5, h6, figure {
 
 
 // off canvas
-#fh5co-offcanvas {
+#ismat-offcanvas {
 	position: absolute;
 	z-index: 1901;
 	width: 270px;
@@ -1371,7 +1371,7 @@ h1, h2, h3, h4, h5, h6, figure {
 
 
 // Burger Menu
-.fh5co-nav-toggle {
+.ismat-nav-toggle {
   width:25px;
   height:25px;
   cursor: pointer;
@@ -1406,7 +1406,7 @@ h1, h2, h3, h4, h5, h6, figure {
 		  transition:all .2s ease-out;
 	  }
   }
-  &.fh5co-nav-white {
+  &.ismat-nav-white {
   	> i {
   		color:$brand-white;
   		background: $brand-black;
@@ -1426,22 +1426,22 @@ h1, h2, h3, h4, h5, h6, figure {
   }
 }
 
-.fh5co-nav-toggle i::before {
+.ismat-nav-toggle i::before {
   top: -7px;
 }
-.fh5co-nav-toggle i::after {
+.ismat-nav-toggle i::after {
   bottom: -7px;
 }
-.fh5co-nav-toggle:hover i::before {
+.ismat-nav-toggle:hover i::before {
   top: -10px;
 }
-.fh5co-nav-toggle:hover i::after {
+.ismat-nav-toggle:hover i::after {
   bottom: -10px;
 }
-.fh5co-nav-toggle.active i {
+.ismat-nav-toggle.active i {
 	background: transparent;
 }
-.fh5co-nav-toggle.active i::before {
+.ismat-nav-toggle.active i::before {
   top:0;
   -webkit-transform: rotateZ(45deg);
      -moz-transform: rotateZ(45deg);
@@ -1449,7 +1449,7 @@ h1, h2, h3, h4, h5, h6, figure {
        -o-transform: rotateZ(45deg);
           transform: rotateZ(45deg);
 }
-.fh5co-nav-toggle.active i::after {
+.ismat-nav-toggle.active i::after {
   bottom:0;
   -webkit-transform: rotateZ(-45deg);
      -moz-transform: rotateZ(-45deg);
@@ -1457,7 +1457,7 @@ h1, h2, h3, h4, h5, h6, figure {
        -o-transform: rotateZ(-45deg);
           transform: rotateZ(-45deg);
 }
-.fh5co-nav-toggle {
+.ismat-nav-toggle {
   position: absolute;
   right: 0px;
   top: 55px;
@@ -1641,7 +1641,7 @@ h1, h2, h3, h4, h5, h6, figure {
 	padding-bottom: 2em!important;
 }
 
-.fh5co-loader {
+.ismat-loader {
 	position: fixed;
 	left: 0px;
 	top: 0px;
