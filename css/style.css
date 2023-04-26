@@ -11,7 +11,7 @@
 *
 * ======================================================= */
 body {
-  font-family: "Source Sans Pro", Arial, sans-serif;
+  font-family: "Montserrat", Arial, sans-serif;
   font-weight: 400;
   font-size: 15px;
   line-height: 1.7;
@@ -64,7 +64,7 @@ p {
 
 h1, h2, h3, h4, h5, h6, figure {
   color: #000;
-  font-family: "Raleway", sans-serif;
+  font-family: "Raleway", Arial, sans-serif;
   font-weight: 400;
   margin: 0 0 20px 0;
 }
@@ -147,7 +147,7 @@ h1, h2, h3, h4, h5, h6, figure {
   text-transform: uppercase;
   font-weight: bold;
   font-weight: 700;
-  font-family: "Source Sans Pro", Arial, sans-serif;
+  font-family: "Montserrat", Arial, sans-serif;
 }
 .ismat-nav #ismat-logo a {
   color: #000;
@@ -365,7 +365,7 @@ h1, h2, h3, h4, h5, h6, figure {
   font-size: 20px;
   line-height: 1.5;
   margin-bottom: 30px;
-  font-family: "Source Sans Pro", Arial, sans-serif;
+  font-family: "Montserrat", Arial, sans-serif;
 }
 #ismat-hero .flexslider .slider-text > .slider-text-inner h2 a {
   color: rgba(255, 255, 255, 0.5);
@@ -1088,7 +1088,7 @@ h1, h2, h3, h4, h5, h6, figure {
   font-size: 14px;
   text-transform: uppercase;
   margin-bottom: 2.5em;
-  font-family: "Source Sans Pro", Arial, sans-serif;
+  font-family: "Montserrat", Arial, sans-serif;
   font-weight: 700;
   letter-spacing: 2px;
 }
@@ -1178,7 +1178,7 @@ h1, h2, h3, h4, h5, h6, figure {
   font-size: 12px;
   letter-spacing: 2px;
   text-transform: uppercase;
-  font-family: "Source Sans Pro", Arial, sans-serif;
+  font-family: "Montserrat", Arial, sans-serif;
   color: #fff;
 }
 #ismat-footer .copyright .block {
@@ -1438,7 +1438,7 @@ h1, h2, h3, h4, h5, h6, figure {
 .btn {
   margin-right: 4px;
   margin-bottom: 4px;
-  font-family: "Source Sans Pro", Arial, sans-serif;
+  font-family: "Montserrat", Arial, sans-serif;
   font-size: 16px;
   font-weight: 400;
   -webkit-border-radius: 30px;
