@@ -1,3 +1,16 @@
+		<div id="ismat-gallery" class="ismat-bg-section">
+		<div class="row text-center">
+			<h2><span>Facebook Page</span></h2>
+		</div>
+		<div class="container text-center">
+			<div class="center">
+				<div id="fb-root"></div>
+				<div class="fb-page" data-href="https://www.facebook.com/ISMATCUxNU" data-width="500" data-height="500" data-tabs="timeline" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/ISMATCUxNU" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/ISMATCUxNU">I-SMaT: International PhD Program</a></blockquote></div>
+			</div>
+		</div>
+	</div>
+	
+	
 	<div id="fh5co-testimonial" style="background-image: url(images/school.jpg);">
 		<div class="overlay"></div>
 		<div class="container">
